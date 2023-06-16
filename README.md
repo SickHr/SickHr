@@ -1,4 +1,10 @@
-## My decent Profile
+##
+
+- 21 Years old
+- Lives in Germany
+- Python Programmer
+- - - - - - - - - -
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/senkuXY?style=social)](https://twitter.com/intent/follow?screen_name=senkuXY)
 
 
