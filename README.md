@@ -15,7 +15,8 @@
 
 - 21 Years old
 - Lives in Germany
-- Python Programmer 
+- Young Developer
+- Focus on Python
 
 &emsp;
 
