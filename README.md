@@ -24,7 +24,7 @@
 
 &emsp;
 
-  
+
  ### Recent Projects
   - Discord Bot
 - - - - - - - - - - 
