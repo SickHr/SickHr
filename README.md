@@ -33,8 +33,6 @@
 Du kannst mich über die folgenden Kanäle kontaktieren:
 
 - [E-Mail](mailto:contact@Avalium.me)
-- [Website](https://Avalium.me)
-
 ---
 
 <div align="center">
