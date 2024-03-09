@@ -4,8 +4,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/deinLinkedInProfil">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=deinGitHubNutzername&style=flat-square&color=blue" alt=""/>
 </div>
@@ -31,16 +29,15 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deinGitHubNutzername&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SickHr&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </div>
 
 ### 📫 Kontaktiere mich
 
 Du kannst mich über die folgenden Kanäle kontaktieren:
 
-- [E-Mail](mailto:deine@email.com)
-- [LinkedIn](https://www.linkedin.com/in/deinLinkedInProfil)
-- [Website](https://deinewebsite.com)
+- [E-Mail](mailto:contact@Avalium.me)
+- [Website](https://Avalium.me)
 
 ---
 
