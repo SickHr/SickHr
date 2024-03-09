@@ -29,7 +29,7 @@
 - [Avalium Website](https://github.com/SickHr/Avalium)
 
 <br>
----
+
 <br>
 
 <div align="center">
