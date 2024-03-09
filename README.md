@@ -8,10 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=deinGitHubNutzername&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  <img src="https://img1.picmix.com/output/stamp/normal/3/4/0/3/1163043_6cfd8.gif" alt="Coding" width="450"/>
-</div>
-
 ### 👨‍💻 Über mich
 
 - 22 Jahre alt
