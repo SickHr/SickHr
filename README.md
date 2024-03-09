@@ -3,7 +3,11 @@
   <h1>Willkommen auf meiner GitHub-Seite!</h1>
 </div>
 
+<br>
+
 <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/deinLinkedInProfil">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=deinGitHubNutzername&style=flat-square&color=blue" alt=""/>
 </div>
@@ -30,6 +34,8 @@
 
 <br>
 
+---
+
 <br>
 
 <div align="center">
@@ -37,15 +43,19 @@
 </div>
 
 <br>
+
 ### 📫 Kontaktiere mich
 
 Du kannst mich über die folgenden Kanäle kontaktieren:
 
 - [E-Mail](mailto:contact@Avalium.me)
+
+<br>
+
 ---
 
 <br>
 
 <div align="center">
-  <sub>Erstellt mit ❤️ von deinem Sick</sub>
+  <sub>Erstellt mit ❤️ von deinem SickHr</sub>
 </div>
