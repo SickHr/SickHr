@@ -19,8 +19,8 @@
 
 ### 🚀 Neueste Projekte
 
-- [Discord Bot](https://github.com/deinGitHubNutzername/discord-bot)
-- [Weiteres Projekt](https://github.com/deinGitHubNutzername/anderes-projekt)
+- [Discord Bot](https://github.com/SickHr/Stewie-2.0)
+- [Avalium Website](https://github.com/SickHr/Avalium)
 
 ---
 
