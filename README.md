@@ -46,7 +46,7 @@
 
 Du kannst mich über die folgenden Kanäle kontaktieren:
 
-- Business Mail: Contact@Avalium.me
+- Mail: Contact@Avalium.me
 
 <br>
 
