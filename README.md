@@ -42,11 +42,6 @@
 
 <br>
 
-### 📫 Kontaktiere mich
-
-Du kannst mich über die folgenden Kanäle kontaktieren:
-
-- Mail: contact@Avalium.me
 
 <br>
 
