@@ -16,7 +16,6 @@
 
 - 22 Jahre alt
 - Lebe in Deutschland
-- Junger Entwickler
 - Fokus auf Python
 
 <br>
